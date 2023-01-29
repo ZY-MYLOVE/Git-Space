@@ -1,5 +1,3 @@
 hello git,hello world!
-git hot-fix is running!
-hello git,hello world! git master test
-hello git,hello world! git hot-fix test
-git merge test finish!
+version:git merage test marster
+
