@@ -1,3 +1,3 @@
 hello git,hello world!
-version:git merage test marster
-
+version:git merage test marster + git merage test hotfix
+git merge finnish!
